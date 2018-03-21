@@ -1,0 +1,2 @@
+# rashiblog
+django girls tutorial
